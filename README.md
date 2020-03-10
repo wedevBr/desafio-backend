@@ -10,7 +10,7 @@ O objetivo desse desafio é:
 - Avaliar e testar o seu conhecimento sobre o SOLID e orientação a objetos.
 
 ## Contexto
-Obrigatório usar o [Laravel]() ou [Lumen]() para resolver este desafio.
+Obrigatório usar o [Laravel](https://laravel.com/docs/6.x) ou [Lumen](https://lumen.laravel.com/docs/6.x) para resolver este desafio.
 Utilizar versão do PHP acima do 7.2, preferencialmente o 7.4
 
 
