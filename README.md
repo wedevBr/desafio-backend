@@ -10,8 +10,8 @@ O objetivo desse desafio é:
 - Avaliar e testar o seu conhecimento sobre o SOLID e orientação a objetos.
 
 ## Contexto
-Obrigatório usar o [Laravel](https://laravel.com/docs/6.x) ou [Lumen](https://lumen.laravel.com/docs/6.x) para resolver este desafio.
-Utilizar versão do PHP acima do 7.2, preferencialmente o 7.4
+Obrigatório usar o [Laravel](https://laravel.com/docs) ou [Lumen](https://lumen.laravel.com/docs) para resolver este desafio.
+Utilizar versão do PHP acima do 7.4, preferencialmente o 8.0
 
 
 ## Requisitos do desafio
@@ -28,7 +28,7 @@ Utilizar versão do PHP acima do 7.2, preferencialmente o 7.4
 
 ## Regras
 - Você terá 7 dias corridos para resolver o desafio.
-- Deverá manter a nossa conta do Github (@wedevBr) convidada para o projeto até o fim do resultado.
+- Crie um repositorio e mantenha a nossa conta do Github (@wedevBr) convidada para o projeto até o fim do resultado.
 - O projeto deve executar sem erros no momento da avaliação.
 - Pode-se usar qualquer pacote que tenha compatibilidade com o Laravel/Lumen.
 - Procure seguir o PSR12
